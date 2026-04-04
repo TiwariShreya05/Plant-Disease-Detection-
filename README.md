@@ -150,3 +150,12 @@ Check `training_curves.png` and `confusion_matrix.png` after training.
 - [PlantVillage Paper](https://arxiv.org/abs/1604.03169)
 - [MobileNetV2 Paper](https://arxiv.org/abs/1801.04381)
 - [TensorFlow Transfer Learning Guide](https://www.tensorflow.org/tutorials/images/transfer_learning)
+
+  ---
+
+## 📬 Contact
+
+- 💼 LinkedIn: [linkedin.com/in/shreya-tiwari-520b692b3](https://www.linkedin.com/in/shreya-tiwari-520b692b3/)
+- 📧 Email: shreyatiwari0801@gmail.com
+- 🐙 GitHub: [github.com/TiwariShreya05](https://github.com/TiwariShreya05)
+
