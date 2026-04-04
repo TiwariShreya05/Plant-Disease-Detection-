@@ -14,7 +14,7 @@ A computer vision project that detects plant diseases from leaf images using **T
 | **Framework** | TensorFlow / Keras | 
 | **Accuracy** | ~90%+ on validation set |
 
----
+--- 
 
 ## 📁 Folder Structure
 
