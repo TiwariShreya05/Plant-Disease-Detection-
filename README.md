@@ -8,7 +8,7 @@ A computer vision project that detects plant diseases from leaf images using **T
 
 | Item | Details |
 |------|---------|
-| **Task** | Multi-class Image Classification |
+| **Task** | Multi-class Image Classification |   
 | **Dataset** | PlantVillage (54,000+ images, 38 classes) |
 | **Model** | MobileNetV2 (Transfer Learning) |
 | **Framework** | TensorFlow / Keras | 
