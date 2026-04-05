@@ -17,7 +17,7 @@ A computer vision project that detects plant diseases from leaf images using **T
 ---   
 
 ## 📁 Folder Structure
-
+ 
 ```
 plant-disease-detection/
 │
