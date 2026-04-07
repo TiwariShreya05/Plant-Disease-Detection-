@@ -6,7 +6,7 @@ A computer vision project that detects plant diseases from leaf images using **T
 
 ## 📌 Project Overview
 
-| Item | Details |
+| Item | Details | 
 |------|---------|
 | **Task** | Multi-class Image Classification |   
 | **Dataset** | PlantVillage (54,000+ images, 38 classes) |
