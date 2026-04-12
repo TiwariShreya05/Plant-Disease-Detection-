@@ -1,6 +1,6 @@
 # 🌿 Plant Disease Detection using Deep Learning
    
-A computer vision project that detects plant diseases from leaf images using **Transfer Learning** with **MobileNetV2**.
+A computer vision project that detects plant diseases from leaf images using **Transfer Learning** with **MobileNetV2**.   
 
 ---
 
