@@ -15,7 +15,7 @@ A computer vision project that detects plant diseases from leaf images using **T
 | **Accuracy** | ~90%+ on validation set | 
 
 ---    
-
+         
 ## 📁 Folder Structure
  
 ```
