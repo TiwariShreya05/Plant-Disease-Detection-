@@ -13,7 +13,7 @@ A computer vision project that detects plant diseases from leaf images using **T
 | **Model** | MobileNetV2 (Transfer Learning) |      
 | **Framework** | TensorFlow / Keras |       
 | **Accuracy** | ~90%+ on validation set |           
-
+    
 ---    
          
 ## 📁 Folder Structure
