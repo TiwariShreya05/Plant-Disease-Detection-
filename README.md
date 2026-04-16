@@ -24,10 +24,6 @@ A computer vision project that detects plant diseases from leaf images using **T
 
 <img width="1338" height="696" alt="image" src="https://github.com/user-attachments/assets/60586c77-23bd-4fd2-8d71-ddbf09a4d956" />
 
-
-
-
-    
 ---    
          
 ## 📁 Folder Structure
