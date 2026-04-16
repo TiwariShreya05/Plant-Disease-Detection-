@@ -5,7 +5,7 @@ A computer vision project that detects plant diseases from leaf images using **T
 ---
 
 ## 📌 Project Overview
-
+    
 | Item | Details | 
 |------|---------|
 | **Task** | Multi-class Image Classification |   
